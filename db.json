@@ -56,7 +56,7 @@
       ],
       "thumbnail": "5adc6083a59182415cd93d5297796209",
       "price": "10275005",
-      "quantity": "32",
+      "quantity": "30",
       "createdAt": 1643373068134,
       "id": 4,
       "category": 1,
@@ -73,7 +73,7 @@
       ],
       "thumbnail": "c5cbe68ee3eb3b0f3870e0230aafa8b1",
       "price": "12750008",
-      "quantity": "25",
+      "quantity": "20",
       "createdAt": 1643373068134,
       "id": 6,
       "category": 2,
@@ -90,7 +90,7 @@
       ],
       "thumbnail": "f9ef66527a87fd978f74ed7240d3f559",
       "price": "102006",
-      "quantity": "40",
+      "quantity": "38",
       "createdAt": 1643373068134,
       "id": 7,
       "category": 2,
@@ -2504,9 +2504,10 @@
         }
       ],
       "price": 21162000,
-      "delivered": "false",
+      "delivered": "true",
       "createdAt": 1645607584834,
-      "id": 31
+      "id": 31,
+      "deliveredAt": 1646030500721
     },
     {
       "username": "رضا",
